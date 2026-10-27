@@ -1,3 +1,7 @@
+CHOPPER is a 3D-printable pelletizer made to sit on your desk and run on drills or steppers. It can cut filaments and any polymer strand up to 2mm in diameter into ~3mm pellets.
+
+Check the assembly instructions on YouTube : https://www.youtube.com/watch?v=YQxp2BWjgcM
+
 Metafuse CHOPPER - Open-Source STL Files
 Copyright (C) 2025 Metafuse
 
